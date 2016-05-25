@@ -1,0 +1,15 @@
+{
+  "name": "simplerelaycontrol",
+  "version": "1.0.0",
+  "description": "Control relay with GPIO and NETPIE",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MacTanomsup",
+  "license": "ISC",
+  "dependencies": {
+    "microgear": "^0.6.7",
+    "onoff": "^1.1.0"
+  }
+}

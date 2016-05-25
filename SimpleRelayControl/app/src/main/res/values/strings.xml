@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleRelayControl</string>
+    <string name="relay_1">Relay 1</string>
+    <string name="relay_2">Relay 2</string>
+    <string name="relay_3">Relay 3</string>
+    <string name="relay_4">Relay 4</string>
+    <string name="status">NETPIE is not connected yet</string>
+    <string name="connect">Connect</string>
+</resources>
